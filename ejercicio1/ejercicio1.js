@@ -15,7 +15,7 @@ document.getElementById("boton").addEventListener("click", function () {
 				});
 		},
 		error: function () {
-			console.error("Error al cargar el archivo XML.");
+			console.error("Error al cargar el archivo XML");
 		},
 	});
 });
